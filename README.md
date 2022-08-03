@@ -1,4 +1,4 @@
-# AILEADTECH-project
+# Bank Market Prediction
 
 This project is about Building a predictive model to predict whether a bank customer will subscribe to a term deposit or not
 
